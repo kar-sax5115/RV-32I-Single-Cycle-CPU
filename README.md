@@ -119,7 +119,3 @@ For branches, the ALU compares `rs1` and `rs2` and puts the result in bit 0 of i
 - CSR instructions and the Zicsr extension
 - M extension (multiply and divide)
 - FPGA implementation with on-board I/O
-
-## License
-
-Add your preferred license here (for example MIT).
